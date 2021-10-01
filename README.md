@@ -23,7 +23,7 @@ _🎯 Follow me and star this repo for more telegram bots._
 
 - Deploy to **Railway**
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/65KRpqTon/VoiceChatStreamer-1&envs=API_ID,API_HASH,SESSION)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/Rifkiarisman/VoiceChatStreamer-1&envs=API_ID,API_HASH,SESSION)
 
 ### 🏷 Radio Stations. [Click here](https://github.com/AnjanaMadu/radio_stations)
 
