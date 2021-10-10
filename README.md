@@ -1,10 +1,8 @@
 # Voice Chat Streamer
-_This bot can stream audio or video files and urls in telegram voice chats :)_
+_Userbot untuk memutar vidio maupun lagu
 
-![GitHub Repo stars](https://img.shields.io/github/stars/AnjanaMadu/VoiceChatStreamer?color=green&logo=github)
-![GitHub forks](https://img.shields.io/github/forks/AnjanaMadu/VoiceChatStreamer?color=green&logo=github)
-![TG Channel](https://img.shields.io/badge/dynamic/json?color=red&label=channel%20@harp_tech&query=subscribers&url=https%3A%2F%2Fonline-users-api.up.railway.app%2Fcheck%3Fchat%3Dharp_tech&logo=telegram)
-![TG Chat](https://img.shields.io/badge/dynamic/json?color=red&label=support%20@harp_chat&query=online&url=https%3A%2F%2Fonline-users-api.up.railway.app%2Fcheck%3Fchat%3Dharp_chat&logo=telegram)
+![GitHub Repo stars](https://img.shields.io/github/stars/Rifkiarisman/VoiceChatStreamer?color=green&logo=github)
+![GitHub forks](https://img.shields.io/github/forks/Rifkiarisman/VoiceChatStreamer?color=green&logo=github)
 
 _🎯 Follow me and star this repo for more telegram bots._
 
@@ -21,17 +19,6 @@ _🎯 Follow me and star this repo for more telegram bots._
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Rifkiarisman/VoiceChatStreamer-1)
 
-- Deploy to **Railway**
-
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/Rifkiarisman/VoiceChatStreamer-1&envs=API_ID,API_HASH,SESSION)
-
-### 🏷 Radio Stations. [Click here](https://github.com/AnjanaMadu/radio_stations)
-
-_If you like to add your country radio stations, Please open pull request [here](https://github.com/AnjanaMadu/radio_stations)_
-
-### 🏷 Deployment Guide
-
-_Note: This bot does not leaving from vc after song or video ended. And this is not a bot. Just a userbot. How to use? You need to add String session own's user to your group. Ok now you added userbot to your group. Then do `!help`. Now you can get help menu. Read it and Do what you want by reffering help menu. For help [@harp_chat](https://t.me/harp_chat)_
 
 <details>
   <summary>How to get <code>API_ID</code> and <code>API_HASH</code></summary>
@@ -59,7 +46,7 @@ _Note: This bot does not leaving from vc after song or video ended. And this is 
   - `sudo bash get-docker.sh`
   - `rm get-docker.sh`
 - Cloning Repo and Go to dir
-  - `git clone https://github.com/AnjanaMadu/VoiceChatStreamer bot`
+  - `git clone https://github.com/Rifkiarisman/VoiceChatStreamer bot`
   - `cd bot`
 - _Now edit "config.py" with your values._
 - Docker Build
@@ -67,27 +54,3 @@ _Note: This bot does not leaving from vc after song or video ended. And this is 
 - Start Bot
   - `sudo docker run vcstreamer`
 
-
-## 📌 Credits
-- [MarshalX](https://github.com/MarshalX/tgcalls) for Pytgcalls
-- [SpEcHiDe](https://github.com/SpEcHiDe) for Multi VCs support
-- [Me](https://github.com/AnjanaMadu) for this Project 🤪
-
-## 📌 License
-```
-VoiceChatStreamer, An Telegram Bot Project
-Copyright (c) 2021 Anjana Madu <https://github.com/AnjanaMadu>
-
-This program is free software: you can redistribute it and/or modify
-it under the terms of the GNU Affero General Public License as published by
-the Free Software Foundation, either version 3 of the License, or
-(at your option) any later version.
-
-This program is distributed in the hope that it will be useful,
-but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-GNU Affero General Public License for more details.
-
-You should have received a copy of the GNU Affero General Public License
-along with this program.  If not, see <https://www.gnu.org/licenses/>
-```
