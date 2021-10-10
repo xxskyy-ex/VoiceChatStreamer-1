@@ -2,7 +2,7 @@ tgcrypto
 youtube_dl
 pafy
 pytube
-youtube-search-python==1.4.6
+youtube-search-python
 asyncio
-py-tgcalls==0.5.5
+pytgcalls==3.0.0.dev19
 git+https://github.com/pyrogram/pyrogram@master
